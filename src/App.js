@@ -8,8 +8,8 @@ import ProfileIcon from './components/ProfileIcon';
 
 function App() {
   return (
-    <div className='flex items-center  p-4 bg-red-50 font-mono'>
-    <div className="bg-red-200 w-full max-w-l mx-auto shadow-md rounded-xl text-center items-center ">
+    <div className='flex items-center  p-10 bg-gray-200 font-mono'>
+    <div className="bg-red-100 w-full mx-auto shadow-xl rounded-xl text-center items-center ">
     <Banner/>
     <Header/>
     <div className='flex justify-evenly pt-5'>

@@ -2,8 +2,8 @@ import React from 'react'
 
 function Header() {
   return (
-    <div>
-      <ol className='flex justify-around '>
+    <div className='header'>
+      <ol className='flex justify-around pt-5 rounded-md bg-gr'>
       <li>LinkedIn</li>
       <li>GitHub</li>
       <li>Email</li>
