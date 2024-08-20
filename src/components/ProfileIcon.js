@@ -5,7 +5,7 @@ const ProfileIcon = () => {
   return (
    
       <>
-      <img src={ProfilePic} className='rounded-full size-60 shadow-md' alt='profile-pic'/>
+      <img src='https://cdn.pixabay.com/photo/2023/11/03/02/38/ai-generated-8361907_1280.jpg' className='rounded-full size-60 shadow-md' alt='profile-pic'/>
       </>
   )
 }
