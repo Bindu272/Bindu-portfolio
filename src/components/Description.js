@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Hellooooooooo = () => {
   return (
     <div className="rounded-md p-4 sm:p-6 lg:p-8 bg-red-100 text-md description">
-      <h1 className="text-red-400 font-bold text-2xl sm:text-3xl pb-2">Bindu Patil</h1>
+      <h1 className="text-red-400 font-bold text-2xl sm:text-3xl pb-2">Anonymous</h1>
       <p className="text-sm sm:text-base">
         Hey! I'm a MERN stack wizard with 3 years of hands-on experience. I turn
         code into cool, scalable apps that people love to use. Frontend,
